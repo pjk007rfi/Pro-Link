@@ -1,1 +1,4 @@
 alert('Arbitrary JS code!')
+var loc = document.location.href;
+var logger = window.console.log;
+logger('Test')
