@@ -1,1 +1,3 @@
-alert('Arbitrary JS code!')
+alert('Arbitrary JS code!');
+var newText = 'New Text';
+alert(newText);
